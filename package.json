@@ -1,6 +1,6 @@
 {
   "name": "osx-find-executable",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Find an app's executable by its bundle id",
   "repository": "juliangruber/osx-find-executable",
   "license": "MIT",
