@@ -1,3 +1,3 @@
 const find = require('.')
 
-find('com.google.Chrome', console.log)
+find(process.argv[2] || 'com.google.Chrome', console.log)
