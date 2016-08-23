@@ -1,0 +1,17 @@
+{
+  "name": "osx-find-executable",
+  "version": "0.0.0",
+  "description": "Find an app's executable by its bundle id",
+  "repository": "juliangruber/osx-find-executable",
+  "license": "MIT",
+  "scripts": {
+    "test": "tap test.js && standard"
+  },
+  "dependencies": {
+    "plist": "^2.0.1"
+  },
+  "devDependencies": {
+    "standard": "^8.0.0-beta.5",
+    "tap": "^6.3.2"
+  }
+}
